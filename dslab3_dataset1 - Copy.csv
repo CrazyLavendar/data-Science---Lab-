@@ -1,0 +1,21 @@
+name,prep_time,cook_time,state,region,cost
+Rabri,10,31,Uttar Pradesh,North,15
+Sheera,11,30,Maharashtra,West,15
+Singori,13,27,Uttarakhand,North,25
+halwa,15,24,Uttar Pradesh,North,24
+papdi,16,23,Maharashtra,West,33
+jalebi,15,22,Odisha,East,25
+kheeri,15,20,Odisha,East,25
+Ariselu,15,20,Andhra Pradesh,South,35
+Laddu,18,20,Andhra Pradesh,South,24
+Chikki,19,19,Maharashtra,West,25
+aalo,20,18,Karnataka,South,24
+meetha,22,15,Telangana,South,35
+Gavvalu,23,15,Andhra Pradesh,South,24
+khaja,25,15,Andhra Pradesh,South,25
+paniyaram,26,15,Kerala,South,34
+Mysore,26,13,Karnataka,South,25
+holige,29,13,Karnataka,South,34
+Palathalikalu,29,13,Andhra Pradesh,South,25
+Poornalu,30,12,Andhra Pradesh,South,22
+Pongal,31,10,Tamil Nadu,South,23
